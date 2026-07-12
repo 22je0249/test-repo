@@ -1,0 +1,12 @@
+{
+  "name": "sample-incident-app",
+  "version": "1.0.0",
+  "description": "A sample Node.js application to test the AIOps Copilot incident response platform",
+  "main": "src/discount.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
