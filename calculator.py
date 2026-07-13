@@ -1,4 +1,4 @@
-# Trigger logic error
+# Trigger logic error for RAG feedback learning test
 def add(a, b):
     assert a >= 0 and b >= 0, "Inputs must be non-negative"
     return a + b
