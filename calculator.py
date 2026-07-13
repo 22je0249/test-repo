@@ -1,4 +1,4 @@
-# Final validation trigger for RAG feedback auto PR
+# Final validation trigger with query log embedding match
 def add(a, b):
     assert a >= 0 and b >= 0, "Inputs must be non-negative"
     return a + b
